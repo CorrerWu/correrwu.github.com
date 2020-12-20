@@ -7,6 +7,7 @@
       <p><b>学校：×××</b></p>
       <p><b>邮箱：×××</b></p>
       <p><b>地址：×××</b></p>
+      <a href="/index-en.html">英文版</a>
     </td>
     <td width="25%">
       <img src="/宇宙 (1).jpg" width="100%">
